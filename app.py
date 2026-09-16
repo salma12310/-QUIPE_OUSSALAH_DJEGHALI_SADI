@@ -20,4 +20,4 @@ Ce dashboard interactif est divisé en deux axes d'analyse disponibles dans le m
 2. **Dashboard 2 (Arbitrage Lipides/Protéines) :** Mise en évidence des compromis nutritionnels entre graisses et protéines selon les catégories de produits.
 """)
 
-st.info("👈 **Sélectionnez une page dans le menu de gauche pour lancer l'exploration interactive.**") 
+st.info("👈 **Sélectionnez une page dans le menu de gauche pour lancer l'exploration interactive.**")
